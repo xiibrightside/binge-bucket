@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/binge-bucket/static/css/main.b2586571.css",
-    "main.js": "/binge-bucket/static/js/main.a58b6162.js",
+    "main.js": "/binge-bucket/static/js/main.03a807d2.js",
     "static/media/not-found.png": "/binge-bucket/static/media/not-found.a4e1475d94e1f3001c53.png",
     "service-worker.js": "/binge-bucket/service-worker.js",
     "index.html": "/binge-bucket/index.html",
     "main.b2586571.css.map": "/binge-bucket/static/css/main.b2586571.css.map",
-    "main.a58b6162.js.map": "/binge-bucket/static/js/main.a58b6162.js.map"
+    "main.03a807d2.js.map": "/binge-bucket/static/js/main.03a807d2.js.map"
   },
   "entrypoints": [
     "static/css/main.b2586571.css",
-    "static/js/main.a58b6162.js"
+    "static/js/main.03a807d2.js"
   ]
 }
